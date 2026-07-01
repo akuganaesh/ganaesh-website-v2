@@ -1,0 +1,4 @@
+# Local backup snapshots and archives — not part of site source
+*.rar
+Archives/
+20260630*/
